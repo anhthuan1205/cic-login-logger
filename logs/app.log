@@ -1,0 +1,4 @@
+{"message":"127.0.0.1 - - [16/Jan/2020:08:17:48 +0000] \"GET /api/1 HTTP/1.1\" 200 231 \"-\" \"PostmanRuntime/7.20.1\"\n","level":"info"}
+{"message":"127.0.0.1 - - [16/Jan/2020:08:18:00 +0000] \"POST /api/login HTTP/1.1\" 200 174 \"-\" \"PostmanRuntime/7.20.1\"\n","level":"info"}
+{"message":"127.0.0.1 - - [16/Jan/2020:08:18:10 +0000] \"POST /api/register HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.20.1\"\n","level":"info"}
+{"message":"127.0.0.1 - - [16/Jan/2020:08:18:27 +0000] \"POST /api/register HTTP/1.1\" 200 25 \"-\" \"PostmanRuntime/7.20.1\"\n","level":"info"}
